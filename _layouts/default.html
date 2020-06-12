@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <title>{{ page.title }}</title>
+
+    {% include meta.html %}
+
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <link rel="shortcut icon" href="https://www.assortedscraps.com/images/favicon.ico" />
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="Scraps Of Wisdom" href="{{ site.baseurl }}/feed.xml" />
+
+  </head>
+
+  <body>
+    <div class="wrapper-masthead">
+      <div class="container_wide">
+        <header class="masthead clearfix">
+
+          <div class="site-info">
+            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+            <p class="site-description">{{ site.description }}</p>
+          </div>
+
+          <!-- start of freefind search box html -->
+          <script src="//inc.freefind.com/inc/ffse-overlay.min.js" async></script>
+          <div class="search">
+          <table cellpadding=0 cellspacing=0 border=0 >
+          <tr>
+              <td  style="font-family: Merriweather-R, Arial, Helvetica, sans-serif; font-size: 7.5pt;">
+                  <form style="margin:0px;" action="https://search.freefind.com/find.html" method="get" accept-charset="utf-8" target="_self">
+                  <input type="hidden" name="si" value="81903605">
+                  <input type="hidden" name="pid" value="r">
+                  <input type="hidden" name="n" value="0">
+                  <input type="hidden" name="_charset_" value="">
+                  <input type="hidden" name="bcd" value="&#247;">
+                  <input class="searchbox" type="text" name="query" size="15" placeholder="Search...">
+                  <input class="submitbutton" type="submit" value="">
+                  </form>
+              </td>
+          </tr>
+          </table>
+        </div>
+          <!-- end of freefind search box html -->
+
+        </header>
+      </div>
+    </div>
+
+    <div id="main" role="main" class="container">
+      {{ content }}
+    </div>
+
+    <div class="wrapper-footer">
+    <div class="container">
+      <footer class="footer">
+        {% include svg-icons.html %}
+
+                  <!-- Begin Mailchimp Signup Form -->
+          <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
+          <style type="text/css">
+            #mc_embed_signup{background: #eeeeee; clear:left; font:14px Merriweather-R,Helvetica,Arial,sans-serif; width:100%;}
+            /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+               We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+          </style>
+          <div id="mc_embed_signup">
+          <form action="https://assortedscraps.us17.list-manage.com/subscribe/post?u=9d6c10a9fafaa548d707385c6&amp;id=28076a6284" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate style="display: inline-block;">
+              <div id="mc_embed_signup_scroll" style="display: flex;">
+
+          	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Email" style="padding-left: 10px;" required>
+              <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+              <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_9d6c10a9fafaa548d707385c6_28076a6284" tabindex="-1" value=""></div>
+              <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+              </div>
+          </form>
+          </div>
+
+          <!--End mc_embed_signup-->
+
+          <p style="color: #808080; font-size: 12px; margin-bottom: 5px;">Copyright © 2018-20 Gabe Hess</p>
+
+      </footer>
+    </div>
+  </div>
+
+
+    {% include analytics.html %}
+  </body>
+</html>

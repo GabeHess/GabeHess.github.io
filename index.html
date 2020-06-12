@@ -1,0 +1,33 @@
+---
+layout: default
+title: Assorted Scraps Of Wisdom And Folly
+---
+
+<div class="posts">
+
+
+
+
+  {% for post in site.posts limit:7 %}
+    {% if post.title != "About Me" %}
+
+      <article class="post">
+
+        <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+
+        <div class="entry">
+          {{ post.content | truncatewords: 50 }}
+        </div>
+
+        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read On</a>
+      </article>
+
+    {% endif %}
+  {% endfor %}
+
+  <article class="post" style="text-align: center; padding-bottom: 0em; margin-top: 50px;">
+    <div class="entry">
+      <p id="archive"><a style=" font-family: 'Times New Roman',Merriweather-R,Helvetica,Arial,sans-serif; font-weight: bold; font-size: 36px;" href="https://www.assortedscraps.com/archive.html">Archive</a></p>
+    </div>
+  </article>
+</div>

@@ -1,0 +1,65 @@
+    <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    <script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101097690);</script>
+    <script async src="//static.getclicky.com/js"></script>
+
+    <meta http-equiv="content-language" content="en-us">
+
+    <!-- Default Statcounter code for Assorted Scraps
+    https://www.assortedscraps.com/ -->
+    <script type="text/javascript">
+    var sc_project=11674084;
+    var sc_invisible=1;
+    var sc_security="0877e858";
+    </script>
+    <script type="text/javascript"
+    src="https://www.statcounter.com/counter/counter.js"
+    async></script>
+    <noscript><div class="statcounter"><a title="Web Analytics"
+    href="http://statcounter.com/" target="_blank"><img
+    class="statcounter"
+    src="//c.statcounter.com/11674084/0/0877e858/1/" alt="Web
+    Analytics"></a></div></noscript>
+    <!-- End of Statcounter Code -->
+
+    {% if post.description %}
+    <meta name="description" content="{{ post.description }}" />
+    <meta property="og:description" content="{{ post.description }}" />
+    <meta name="twitter:description" content="{{ post.description }}">
+    {% elsif page.description %}
+    <meta name="description" content="{{ page.description }}" />
+    <meta property="og:description" content="{{ page.description }}" />
+    <meta name="twitter:description" content="{{ page.description }}">
+    {% elsif page.excerpt %}
+    <meta name="description" content="{{ page.content | strip_html | truncatewords: 75 }}" />
+    <meta property="og:description" content="{{ page.content | strip_html | truncatewords:  75 }}" />
+    <meta name="twitter:description" content="{{ page.content | strip_html | truncatewords: 75 }}">
+    {% elsif post.excerpt %}
+    <meta name="description" content="{{ post.content | strip_html | truncatewords: 75 }}" />
+    <meta property="og:description" content="{{ post.content | strip_html | truncatewords: 75 }}" />
+    <meta name="twitter:description" content="{{ post.content | strip_html | truncatewords: 75 }}">
+    {% else %}
+    <meta name="description" content="The collected essays of Gabe Hess - a haphazard assortment of disquisitions, expositions and polemics of varying magnitudes, on matters great and small, to capricious degrees of completion and with no concessions made but to the author's abilities.">
+    <meta property="og:description" content="The collected essays of Gabe Hess - a haphazard assortment of disquisitions, expositions and polemics of varying magnitudes, on matters great and small, to capricious degrees of completion and with no concessions made but to the author's abilities." />
+    <meta name="twitter:description" content="The collected essays of Gabe Hess - a haphazard assortment of disquisitions, expositions and polemics of varying magnitudes, on matters great and small, to capricious degrees of completion and with no concessions made but to the author's abilities.">
+    {% endif %}
+
+    <meta name="author" content="Gabe Hess" />
+
+    {% if page.title %}
+    <meta property="og:title" content="{{ page.title }}" />
+    <meta property="twitter:title" content="{{ page.title }}" />
+    {% endif %}
+
+    {% if post.title %}
+    <meta property="og:title" content="{{ post.title }}" />
+    <meta property="twitter:title" content="{{ post.title }}" />
+    {% endif %}
+
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@GabeCHess">
+    <meta name="twitter:creator" content="@GabeCHess">
+    <meta name="twitter:image" content="https://assortedscraps.com/images/twitter.png">

@@ -1,0 +1,43 @@
+---
+layout: post
+title: "Satire Written During a Time of Peace"
+description: "This is the story of a giant Water Buffalo that stirred in the swamps of Washington..."
+---
+
+This is the story of a giant Water Buffalo that stirred in the swamps of Washington. It would be of no moment that he stirred, were he not the King of an extensive land. But as the stirrings of a king can on occasion be cause for universal bloodshed and war, the stirrings of this King matter so entirely much as to render this contribution to public discourse necessary. The author does not paint any pictures with partisan strokes or chromatically biased hues. He gives his readers only the facts.
+
+The Water Buffalo was not universally loved by the animal kingdom. Some fellow creatures looked with distaste on his mudslinging habits, while expressing qualified approval of his rule. Others emphasized that they did not endorse him the buffalo, but did him the ruler. There were always enough swamp plants to go round with him around. Still others pragmatically picked and chose, supporting him here, not there, maintaining emphatic silence over yonder, and wavering further on. And lastly, others went into paroxysms of agonized reflection at the thought of King Buffalo—aspiring tyrant, bully, and self-satisfied wallower in mud. And oh! his ridiculous headdress! His enormous bulk! A shame and disgrace to the animal kingdom.
+
+He had a little Reptile perched on his right horn, which fulfilled the functions of its office by nodding and smiling amiably. Reptiles are not well suited to this task, but this Reptile had been carefully selected from the reptiles of the swamp, and nod and smile amiably it must. The whole affair had an insidious taint to it—as if its grimaces were indicative of deeper reptilian thoughts, oiled over with the graces of office. But it was unavoidable. The animals of the swamp were thought to want an unbelievable timeserver, and an unbelievable timeserver they would have.
+
+The stirrings of the Buffalo always began with a spasmodic twitching. Very often, the Reptile could scarcely avoid being flung from his shoulders, so violent was this twitching. On the occasion with which I began this short history, the twitching rapidly grew into a mature stirring. A few flecks of mud flew from the Buffalo’s hide. Immediately, as if by some conspiracy of the animal world, chaos and pandemonium broke out. The birds of Washington flew squawking into the air. Strange, grotesque creatures emerged from the very depths of the swamp to assault the Buffalo with spiky swamp plants.
+
+A host of mosquitoes formed around the Buffalo’s head, gathering news and blood. They hummed whiningly and transmitted gossip like an infectious disease. They were all vaccinated against malaria, but their language was foul enough to make the most upright buffalo keel over. Some unidentified species was appointed to explain the stirrings of the Buffalo in dissipative language, but the mosquitoes only buzzed more hungrily. A dense cloud descended upon anyone who stood in their way, who barred their trajectory to the buffalo of the King. Oh, they were bloodthirsty creatures!
+
+The news spread rapidly across the swamp, and before long the stirrings were known to all the indigenous species. One in particular struck out left, right, and center, using tactics that had been in the family before the colonization of the kingdom.
+
+The shrill cries of the Buffalo’s chief antagonist could be heard. She called this latest stirring and mudslinging “irresponsible” and condemned it in the strongest language. An anonymous source reports that she muttered over breakfast, “I would like to dump this feed-bucket over someone’s head.” It is not reported to whose head she was referring.
+
+According to an official spokeswoman, “In these times of crisis, the animal kingdom looks to its leaders for leadership and support. The Buffalo’s latest actions contribute to division. They are inexcusable and unethical.” She went on to note, “We are currently looking into whether or not they are also unkindly.”
+
+Later that day, another team member clarified: “The Buffalo’s actions are unkindly by the standards of basic animal decency. But we are not yet clear whether the thing can be finagled into any form punishable by law.”
+
+Meanwhile, across the swamp, the Buffalo’s pet Turtle was cackling with glee. “One,” he counted. “Two. Buckle my shoe. Three, four: More and more! Five, six: Just for kicks! Seven, eight: Isn’t this great! Nine, ten: Again and again! Eleven, Twelve, Thirteen! Knock ’em off, knock ’em off! Hooray! Hooray!” He was indulging his favorite pastime: confirming swampland judges.
+
+Not last to hear the news in the swamp was an ancient owl with fire in his eyes, a bald face, and white feathers blowing about his temples. He pronounced a judgment upon the earth: “Let the Revolution come! We, the defenders of the innocent, champions of mice and other such poor beleaguered animals, guardians of the night, we denounce and renounce the leadership of this swamp, and await only the opportunity to stage a coup.”
+
+Then tripped along four lovely dryads. They were outraged, and reduced by their outrage to the rhetorical condition of parrots. The Turtle quietly made a note to self to have these nympholepts removed from office at the first possible opportunity.
+
+Before long, the news had reached the broader public of the animal kingdom. Some time since, certain beautiful and rare peacock insects, which until then had been sipping daintily on exotic flowers, began to feed on mire. Soon, growing to like the taste, they began dragging themselves through it. Crawling on their bellies through the mud, they would keep their proboscises aloof, and moan piteously at the defilement of the throne. Now, together they made a cacophonous sound.
+
+All the animals of the animal kingdom then heard the news, and decided after engaging in rational discourse to hold a Bacchic ceremony, where they would pray to their god to send a king log, or stork, anything but this. The herbivorous animals were especially dumbstruck by the latest twitchings of the Buffalo. They turned green, looking as if they had consumed too much lettuce, and cried out, “Enough is enough!” This Buffalo, this Lizard, and this Turtle could no longer be tolerated. For he the former had already trampled their eco-sphere underfoot; they the latter and lattermost had aided and abetted; and now, the camel’s back was broken.
+
+The cry went up among the animals of the kingdom—impeach the Buffalo! Viva la—la—la proletariat! We have nothing to lose but our king! Oh—the—globe—turned—inside—out! Hooray! Hoorah!
+
+When things had reached this point in the proceedings, the news at last reached a certain fellow hiding somewhere in the swamp. He was a human being, with all the superior intelligence that raises man above the animal world. He was shy, however, and lived in a bunker underground. But now he popped his head up out of his hole and spoke to the nearest bracken. “In my administration” (rumour had it he was challenging the Buffalo’s incumbency) “there will be no violence or mudslinging. It is my God-given promise that you will have human rights. In the immortal words of our Declaration of Indebtedness, ‘We the people and women of the swamp will never have enough to lend or borrow’—you know the words.” Someone—a passerby—heard him muttering, and poking his head into the hole said, “J—, you running for office?” J—’s reply was recorded on the second page of _The Swampland Gazette_.
+
+Oh, what a general uproar was in the animal kingdom! Animals howled, and yelped, and flung themselves in all directions at once. Here a cat clawed its own back; there a cow turned into a rampaging bull in a field. Here a rabbit stood stock still in a turnpike; there a freckled deer pirouetted in the air. Here rodents ran in packs through the streets; there pigeons pecked one another’s eyes. Here a scorpion stung itself to death; there an armadillo leapt high then fell to the ground as if dead. All was chaos, all was frenzied action until the the animals wore themselves out.
+
+It must not be thought that the Water Buffalo sat lazily by while all this went on. He stirred very calculatedly. A spot of mud here, a bit flung there, an avalanche in _that_ direction—oh, he was most astute. (The Reptile, all the while, voiced his considered approval. “A good shot, Mr. Buffalo. Spot on.”)
+
+After a time, things began to settle down. The animals thought they had acquitted themselves well, and the Buffalo was very smug. An uneasy truce lasted until the next episode of stirring. In the meantime, the old man in the bunker planned to himself his coming sweep in the elections.
