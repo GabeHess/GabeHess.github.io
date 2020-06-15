@@ -20,8 +20,8 @@ There are several tactics thrown up before decay, to prevent its inevitable marc
 
 Another temporary expedient used to obstruct the march of progress is satire.
 
-  Wit shoots in vain its momentary fires,
-  The meteor drops, and in a flash expires.
+  Wit shoots in vain its momentary fires,  
+  The meteor drops, and in a flash expires.  
 
 And when the meteor has expired, chaos comes to reign over the earth. If anything is salvaged from the reign of chaos, it is only a sense of something beyond chaos. But this something beyond chaos subsists in the mind of the ordered individual. And if the individual is ordered, there is hope for the world, but only through the ordered efforts of the individual.
 
@@ -41,7 +41,7 @@ But historical fatalism operates on the premise that we believe in it. If we do 
 
 Modernity is a dialogue between those who usher in the reign of emptiness, and those who paint portraits of the emptiness without offering any solution. This may be from an illusion of necessity, or a belief that the attack on modernity must come from within. The Christian revolution is dead, and henceforth any change of regime must be by subversion. We must let our principles leak like water into the foundations of the modern edifice. Only by capturing the machinery of the modern world, and exploiting its tools against it, will we triumph over it. One does not, however, transcend the puddle by staring morbidly into the puddle. Rather than spend our time
 
-  …in one-night cheap hotels
-  And sawdust restaurants with oyster-shells,
+  …in one-night cheap hotels  
+  And sawdust restaurants with oyster-shells,  
 
 let us build cathedrals to reside in. If we then find ourselves in the minority, that is perhaps to be expected. Otherwise, we would be in the majority, and could only wonder how we got there.
