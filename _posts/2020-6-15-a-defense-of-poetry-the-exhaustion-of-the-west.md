@@ -33,7 +33,7 @@ I use the word “young” as a metaphor; but this solution is that we fight for
 
 The man of faith is not a holdout from a dying world; he is a new bud of life. He alone is able to overthrow modernity, and restore the vigor of our culture, returning to meter and form in poetry, rather than crawling on his belly through Eliot’s slimy world of cigarette ends and sandwich paper. The solution to modernity, in other words, is full-throated dissent—an alternative proclaimed with a booming voice. The solution is not to retreat into modernity’s very forms. The “bald spot in the middle of the hair” and the thin arms and legs are nothing—the hair will grow back and the arms and legs will gain muscle—but only if we offer a solution to modernity, and not modernity itself.
 
-This is not to say that modernity must be rejected in toto. Surely this is impossible. But timeless truths expressed beautifully are not impossible within a modern context. Or if they are, no one can claim for Eliot the shred of a triumph over modernity.
+This is not to say that modernity must be rejected _in toto_. Surely this is impossible. But timeless truths expressed beautifully are not impossible within a modern context. Or if they are, no one can claim for Eliot the shred of a triumph over modernity.
 
 The answer to the question whether meter and form are now impossible is this: the poets of the future will answer. Is Western civilization and by extension form exhausted? Let us see. If they are, we might retreat to within the memory of the past, or seek to comfort ourselves with the opiates of Eliot. But gone will be the optimism of the Christian era. Human life will return to its tragic condition. Eliot, the tragic poet, will be our sole representative in the modern age.
 
