@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Defense of Poetry: The Waste Land [Ⅸ]"
+title: "A Defense of Poetry: Case Study: Articulate Poetry [Ⅸ]"
 description: "Here is the first stanza of W.B Yeats’ “The Second Coming”:..."
 ---
 
