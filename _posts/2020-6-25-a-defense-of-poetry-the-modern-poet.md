@@ -1,0 +1,13 @@
+---
+layout: post
+title: "A Defense of Poetry: The Modern Poet [Ⅻ]"
+description: "Before the end of this book, I must examine one more claim..."
+---
+
+Before the end of this book, I must examine one more claim. Perhaps my criticism of Eliot is a criticism of modernity. Perhaps Eliot has so successfully captured the modern spirit in his poems, that not only have they shown us what modernity is, they have themselves become modern at their very essence. They have become more modern, with all the broader implications of the word, than poems overtly modern. If this is true, it is a remarkable achievement on Eliot’s part. But if it is true, we should read Eliot’s poetry not as a flowering of great art in the modern age, but as a disease that could only be fully encapsulated—and I mean fully encapsulated—by an Anglo-Catholic, classicist, and royalist. Perhaps only the traditionalist can be fully modern.
+
+And if this is true, it means Eliot is an isolated figure, who expressed for us what now, thanks to him, need never be expressed again. His was the voice in the wilderness, preparing the way for its antithesis. And it is his sad fate, that now we must reject him altogether, and forge ahead to a more vital culture.
+
+Though Eliot’s poetry might be an excellent criticism of modernity, by fully embodying modernity, this means in the end it is a criticism of itself. If we do not concede that modernity is as Eliot described it, we cannot even think it is anything more than a criticism of a prophecy. If we believe that the light of truth shines out in the darkness, that Christianity is a creed of the future as well as the past, and that the permanent things endure even through ages of decay, we shall be very far from admitting that Eliot’s poetry has broader appeal than as a criticism of itself. If we believe that Christianity is dead, that we live in a post-Christian world exhausted and demonic, and that modernity is the tragic condition of life, we shall conclude that Eliot’s tragic poetry is the highest expression of art in the modern world. But if we believe Eliot’s poetry is an expression of a false reality, it might have limited utility, but it should not be allowed to overstep the realm over which it is lord. If Christianity is still vital in spirit, if not in the world, if the world still partakes of truth, goodness, and beauty, and if reason can still delve to the essence of things, then a rational and beautiful analysis of the modern world is higher poetry than that of T.S. Eliot.
+
+Eliot succeeds to the extent that he gives full expression to the spirit of modernity. Let us say, for it is not our purpose to examine these questions, he succeeds. If we admit this, we admit that Eliot is his own refutation.
