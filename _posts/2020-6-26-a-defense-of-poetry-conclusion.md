@@ -1,0 +1,19 @@
+---
+layout: post
+title: "A Defense of Poetry: Conclusion [ⅩⅠⅠⅠ]"
+description: "If there is any question why I have written this book, I submit for consideration that I have written it for these reasons: that we are talking about Eliot, and writing bland poetry..."
+---
+
+If there is any question why I have written this book, I submit for consideration that I have written it for these reasons: that we are talking about Eliot, and writing bland poetry. We need to stop talking about Eliot so much, and stop writing so much bland poetry. “Give the people something good!” one is tempted to cry. For when certain departments of popular culture produce, if not higher, at least better art than the trumpeted offerings of the conservatives and traditionalists, it is no wonder that cultural conservatism is less vital than it might be.
+
+It will be argued that cultural conservatism is vital, that I have gotten Eliot all wrong, or that the conservative poets of today have already returned to classicism, and there was no need for this book. It might be argued that I have trampled on all the rules of criticism, that I have not “proved” my point (as if anyone ever proves their point), or that I have not illumined any path forward.
+
+But cultural conservatism is not vital, and many of the conservative poets of today have returned to the most tired form of classicism I have ever seen. And if it is said that I have gotten Eliot all wrong, that I have run roughshod over tendencies and intricacies and subtleties, I say that it was to save the poor forgotten from tendencies and intricacies and subtleties that I have written this book. I have no objection to tendencies and intricacies and subtleties in principle, but when those tendencies and intricacies and subtleties serve as a web of lies obscuring ugliness and despair, I propose that we expose the core, rather than dwelling on the fine silk peripheries.
+
+And if I have trampled on all the rules of criticism, the reader should not be too quick to blame me. For these rules may be nothing but part of a vast network of rules, hoops, bureaucracy, and paperwork. And the rules, hoops, bureaucracy, and paperwork of the modern world serve as nothing but a sea wall keeping out anything that does not have a Master’s degree at least; and as such, it is high time they be broken down. This is an example of stale and oppressive form, which dictates even the tone of voice we must use. And as C.S. Lewis pointed out, a limitation on _how_ we may say something also limits _what_ we can say.
+
+If I have not proved my point, let the reader prove it to himself by reading Eliot’s poetry and prose. It is all there, much of it in the public domain, and freely available. Most libraries should have a copy of Eliot’s poetry as well.
+
+Finally, if I have not shown any path forward, that is because the path does not lie forward, it lies backward. And if it did lie forward, it is beyond my or anyone else’s capacity to determine a way forward for art. This should not prevent us from lamenting the decline of art. And, certainly, at times the most constructive criticism is destructive—Eliot would agree.
+
+But what we must guard against is the assumption that history and culture are inexorably continuous, that there is no hope of setting the clock right. There is a certain sense of historical inevitability. There is the idea, utterly fallacious, that we can never go back. We have been disconnected from the history of culture. The use of words has narrowed. We live in a modern world. If people do not understand cultural references, educate them to understand cultural references. If the use of words has narrowed, let us expand our horizons into the past. If we live in a modern world, let us say, “Precisely. Now what are we to do about it?” But let us, by all means, go back.
