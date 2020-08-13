@@ -1,16 +1,7 @@
 ---
 layout: post
-title: Dr. Johnson and the Right Way to be a Genius
-date: 2020-6-20
-summary: "At times it seems that one hears about the genius of a person in direct proportion to the number of people who have died as a direct consequence of that genius..."
-categories: Intellect
-author: Gabe Hess
-thumbnail: pot
-tags:
- - Common Sense
- - Communism
- - David Hume
- - Karl Marx
+title: "Dr. Johnson and the Right Way to be a Genius"
+description: "At times it seems that one hears about the genius of a person in direct proportion to the number of people who have died as a direct consequence of that genius..."
 ---
 
 At times it seems that one hears about the genius of a person in direct proportion to the number of people who have died as a direct consequence of that genius. I suppose that having killed millions with the point of your pen entitles you to have people talk about you. But still, it does seem odd that we are sometimes more inclined to respect the one who was catastrophically wrong than the one who was quietly and sensibly right.

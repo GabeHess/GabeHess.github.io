@@ -1,18 +1,7 @@
 ---
 layout: post
-title: The Enemies of Christianity
-date: 2020-6-16
-summary: "If you were to judge the vitality of the Christian religion by the merits of its enemies, you would be forced to conclude that Christianity is more vital than it has ever been..."
-categories: Atheism
-author: Gabe Hess
-thumbnail: pot
-tags:
- - Christianity
- - New Atheism
- - Religion
- - Sam Harris
- - Science
- - Sheer Unmitigated Ignorance
+title: "The Enemies of Christianity"
+description: "If you were to judge the vitality of the Christian religion by the merits of its enemies, you would be forced to conclude that Christianity is more vital than it has ever been..."
 ---
 
 If you were to judge the vitality of the Christian religion by the merits of its enemies, you would be forced to conclude that Christianity is more vital than it has ever been. If you were feeling ironic, you might say one of Christianity’s strongest proofs is the sheer superficiality of its critics. The argument might be developed thus: Men like the New Atheists (who were at one time fashionable) cannot be bothered to understand the religion they are attacking. These men are historically illiterate. They know a little science. One doubts if they have ever read the Bible. One knows they have never read Aquinas. If they were at all witty, they might compensate for what they otherwise lack, but they are not. Who is to say that if they understood the Christian religion they would not be Christians? (Who is to say that if they understood history they would not at least be reasonable men?)

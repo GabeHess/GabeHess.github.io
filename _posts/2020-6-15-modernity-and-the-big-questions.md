@@ -1,16 +1,7 @@
 ---
 layout: post
-title: Modernity and the Big Questions
-date: 2020-6-15
-summary: "We moderns fancy we are smarter than our ancestors were..."
-categories: Atheism
-author: Gabe Hess
-thumbnail: pot
-tags:
- - Religion
- - Sam Harris
- - Science
- - Value and Fact
+title: "Modernity and the Big Questions"
+description: "We moderns fancy we are smarter than our ancestors were..."
 ---
 
 We moderns fancy we are smarter than our ancestors were. We have rejected their religions, and committed ourselves to rational secularism. But we are not smarter, we have only stopped asking the big questions. We have not answered the big questions, we have simply decided that they do not exist. But if we do not face up to the possibility of there being big questions, how do we know they do not exist?
