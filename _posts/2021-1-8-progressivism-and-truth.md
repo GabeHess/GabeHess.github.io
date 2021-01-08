@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Progressivism and Truth"
-description: "Conservatives are rather good at shadow-boxing..."
+description: "There is no political designation so arrogant as “progressive”..."
 ---
 
 There is no political designation so arrogant as “progressive.” It is used by men so out of touch with all thought broaching the boundaries of their own small circle that they genuinely and honestly believe the cultural world is a dichotomy between progressive intellectuals and the forces of blind reaction. They are unaware that an educated person could differ from them in fundamentals. This unawareness of any legitimate culture outside the liberal culture of all educated people—with the same liberal ideology pounded into their skulls by Institutions of Higher Learning—characterizes the liberal on the street as well. Progressives (or liberals: the terms are interchangeable) have never doubted that the world is theirs.
