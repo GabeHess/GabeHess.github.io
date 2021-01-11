@@ -4,7 +4,7 @@ title: "On Orthodoxy"
 description: "For as long as I can remember, I have had the distinct feeling—indeed, the almost implicit assumption—that there is something wrong with modernity..."
 ---
 
->This essay was written and submitted to a college as an application essay. I publish it here because it includes key elements of my philosophy.
+>This essay was written and submitted to a college as an application essay. I publish it here because it includes key elements of my philosophy. (It has some rough spots, but I got in.)
 
 For as long as I can remember, I have had the distinct feeling—indeed, the almost implicit assumption—that there is something wrong with modernity. Of course man since he first walked on earth has been hankering after the golden age that preceded these degenerate days. Corruption and folly are always unique to the time we live in. We look to the time before for innocence, purity, wisdom. “O tempora! O mores!”—thus do we, when afflicted with the sense that the world is somehow inadequate, lament by way of consolation the peculiar inadequacy of the present age.
 
