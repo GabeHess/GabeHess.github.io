@@ -14,9 +14,9 @@ The stirrings of the Buffalo always began with a spasmodic twitching. Very often
 
 A host of mosquitoes formed around the Buffalo’s head, gathering news and blood. They hummed whiningly and transmitted gossip like an infectious disease. They were all vaccinated against malaria, but their language was foul enough to make the most upright buffalo keel over. Some unidentified species was appointed to explain the stirrings of the Buffalo in dissipative language, but the mosquitoes only buzzed more hungrily. A dense cloud descended upon anyone who stood in their way. Oh, they were bloodthirsty creatures!
 
-The news spread rapidly across the swamp, and before long the stirrings were known to all the indigenous species. One in particular struck out left, right, and center, using tactics that had been in the family before the colonization of the kingdom.
+The news spread rapidly across the swamp, and before long the stirrings were known to all the indigenous species. One in particular struck out left, right, and center, using tactics that had been in the family since before the colonization of the kingdom.
 
-The shrill cries of the Buffalo’s chief antagonist could be heard. She called this latest stirring and mudslinging “irresponsible” and condemned it in the strongest language. An anonymous source reports that she muttered over breakfast, “I would like to dump this feed-bucket over someone’s head.” It is not reported to whose head she was referring.
+The shrill cries of the Buffalo’s chief antagonist could be heard. She called this latest stirring and mudslinging “irresponsible” and condemned it in the strongest language. An anonymous source reports that she muttered over breakfast, “I would like to dump this feed-bucket over somebody’s head.” It is not reported to whose head she was referring.
 
 According to an official spokeswoman, “In these times of crisis, the animal kingdom looks to its leaders for leadership and support. The Buffalo’s latest actions contribute to division. They are inexcusable and unethical.” She went on to note, “We are currently looking into whether or not they are also unkindly.”
 
