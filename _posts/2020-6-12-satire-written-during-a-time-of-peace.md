@@ -40,4 +40,4 @@ Oh, what a general uproar was in the animal kingdom! Animals howled, and yelped,
 
 It must not be thought that the Water Buffalo sat lazily by while all this went on. He stirred very calculatedly. A spot of mud here, a bit flung there, an avalanche in _that_ direction—oh, he was most astute. (The Reptile, all the while, voiced his considered approval. “A good shot, Mr. Buffalo. Spot on.”)
 
-After a time, things began to settle down. The animals thought they had acquitted themselves well, and the Buffalo was very smug. An uneasy truce lasted until the next episode of stirring. In the meantime, the old man in the bunker planned to himself his coming sweep in the elections.
+After a time, things began to settle down. The animals thought they had acquitted themselves well, and the Buffalo was very smug. An uneasy truce was established until the next episode of stirring. In the meantime, the old man in the bunker planned to himself his coming sweep in the elections.
