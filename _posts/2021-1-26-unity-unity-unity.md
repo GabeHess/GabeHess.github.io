@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Unity, Unity, Unity"
-description: "I suppose one ought not to blame man for seek palliatives, panaceas, pain-killers when confronted with unfortunate realities..."
+description: "I suppose one ought not to blame man for seeking palliatives, panaceas, pain-killers when confronted with unfortunate realities..."
 ---
 
-I suppose one ought not to blame man for seek palliatives, panaceas, pain-killers when confronted with unfortunate realities. These, however, will always be with us, since we have yet to find a cure for evil.
+I suppose one ought not to blame man for seeking palliatives, panaceas, pain-killers when confronted with unfortunate realities. These, however, will always be with us, since we have yet to find a cure for evil.
 
 Division, one likes to imagine, might just disappear were we all to somehow quit being obstinate, and come together, “unite.” Everyone invokes that word, “unity,” and no one knows how to accomplish it, because we are all confused as to the nature of the disease. We blame Joe Biden, or Donald Trump, for being “divisive,” but how are they to be otherwise? Certainly needlessly “divisive” rhetoric is irresponsible, pointed partisanship is divisive, and scorched-earth principles are unnecessary. Institutions that stoke artificial flames of liberal moral furor are divisive, I suppose. But fundamentally our culture is divided.
 
@@ -14,7 +14,7 @@ Though people are firmly fixed in their fundamental beliefs, they are fluid in t
 
 I suspect that one should not fret too much over poll results. People have all manner of “extreme” beliefs that flit in and out of their heads, which it might be better not to know of. They entertain harmless conspiracy theories. When a paper is put before them with questions, and they know their answer will have no actual influence on affairs, they are apt to write anything. The impressionable nature of a democratic public has been well known throughout history, for which reason we do not have a democracy. Polls, then, are only so useful—and decidedly less useful than a study of the visible, macro-affairs that occur. Sure, were politics conducted by referendum—without institutional context—anarchy would ensue. That is why we have institutions, the study of which is far more useful than the study of the passing judgment of crowds.
 
-Again, public opinion is malleable. The great majority may oppose late-term abortion theoretically. But does their blood cry out against it when it happens? Tepid public sentiment will never prevent evil. Besides, how will the public feel in ten years? That is progress: do it now, and people will support it later. People are gullible, confused in their beliefs, wishy-washy, complacent with regard to some issues, furious others—and through it all, we are divided.
+Again, public opinion is malleable. The great majority may theoretically oppose late-term abortion. But does their blood cry out against it when it happens? Tepid public sentiment will never prevent evil. Besides, how will the public feel in ten years? That is progress: do it now, and people will support it later. People are gullible, confused in their beliefs, wishy-washy, complacent with regard to some issues, furious others—and through it all, we are divided.
 
 Call it the genesis of totalitarianism, or what you will, but when _White Fragility_ sells millions of copies, and School Boards or libraries vote unanimously to be absurd, I cannot but think that our problems go deeper than mere leadership. In other words, we are divided. Perhaps institutional pressures are dividing us—the solution to which is not psychology, but individual courage and conviction—but regardless, people we know sign their names to radical things, opposed by the rest of us. We are divided.
 
