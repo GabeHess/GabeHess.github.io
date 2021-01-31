@@ -4,7 +4,7 @@ title: "The Pomegranate Eaters"
 description: "Jacob Thricely was traveling through an obscure place, when he stumbled upon the provinces of night..."
 ---
 
->This was written last year, pomegranate season. It is difficult to edit a story written so long ago, but I have done a little. Anyway, with writing the words always falls short of the vision, one's own is judged by a different standard from others', sometimes more lenient, sometimes more harsh, making it nearly impossible to judge a story, and in general difficulties abound, till one secludes a gem in one's private papers, or hits "publish" in frustration.
+>This was written last year, pomegranate season. It is difficult to edit a story written so long ago, but I have done a little. Anyway, with writing the words always falls short of the vision, one's own is judged by a different standard from others', sometimes more lenient, sometimes more harsh, making it nearly impossible to judge a story, and in general difficulties abound, till one secludes a gem in private papers, or hits "publish" in frustration.
 
 Jacob Thricely was traveling through an obscure place, when he stumbled upon the provinces of night. The inn he had intended to stay at was thither, yonder, he knew not where. For he had taken a wrong turn somewhere along the way. “Calm your fretted head, Thricely,” he told himself, before casting about for a place to sleep. When the conquering sun regained its domain over the dew-brushed glebe, he, Jacob Thricely had no intention of being caught napping in a field.
 
