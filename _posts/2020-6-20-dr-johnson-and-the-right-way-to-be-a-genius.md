@@ -18,7 +18,7 @@ For after all, anyone with the slightest amount of common sense would know that 
 
 There was no need to try communism. And as proof of this assertion, I offer to the reader a quotation from Boswell’s _Life of Johnson_. Boswell relates a conversation that took place over dinner one day, at which Johnson, several others, and himself were present. One of the company “mentioned a charitable establishment in Wales, where people are maintained, and supplied with every thing, upon the condition of their contributing the weekly produce of their labour; and he said, they grow quite torpid for want of property. Johnson: ‘They have no object for hope. Their condition cannot be better. It is rowing without a port.’”
 
-This conversation took place in 1978. In other words, forty years before Karl Marx was born and almost one hundred and fifty years before the Russian Revolution, Dr. Johnson heard of a charitable establishment in Wales run on communist principles, saw instantly to the core of the matter, and dismissed it out of hand.
+This conversation took place in 1778. In other words, forty years before Karl Marx was born and almost one hundred and fifty years before the Russian Revolution, Dr. Johnson heard of a charitable establishment in Wales run on communist principles, saw instantly to the core of the matter, and dismissed it out of hand.
 
 One can almost hear whole superstructures of theory crashing down as Dr. Johnson utters the words, "They have no object for hope. Their condition cannot be better. It is rowing without a port.” This might be the most concise refutation of communism ever. It is rowing without a port. It is not going to work.
 
