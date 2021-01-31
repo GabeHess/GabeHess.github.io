@@ -24,7 +24,7 @@ According, then, to the categorization scheme of the New Atheists (it really is 
 
 The religious impulse is the fanatical or “dogmatic” impulse; and the secular impulse is the rational and thus moderate impulse. It is no wonder, then, that in the history of the New Atheists, it is always religion that persecutes, and science that is persecuted.
 
-The New Atheists are now considered to be largely irrelevant. But still one must one must look back and shake one’s head at the cleverness of these men, who defined their own world into being, then marveled at the way the definitions proved their point.
+The New Atheists are now considered to be largely irrelevant. But still one must look back and shake one’s head at the cleverness of these men, who defined their own world into being, then marveled at the way the definitions proved their point.
 
 Digressions such as this are unavoidable when speaking of the New Atheists. Prodigious ignorance and intellectual trickery always tempt the tongue and pen to wander from their course into rabbit holes of exasperation and satire. But if we return to the argument, we see that there is not much more to be said. The New Atheism has to a certain extent gone out of fashion, and there has been nothing to replace it. Christianity’s chief antagonists in the twenty-first century have given way, and exposed an empty corridor behind them. What is one to conclude for the future of Christianity?
 
